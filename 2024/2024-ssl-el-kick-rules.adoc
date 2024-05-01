@@ -1,0 +1,72 @@
+:source-highlighter: highlightjs
+:icons: font
+
+= RoboCup Brazil 2024 SSL-EL hardware challenge 
+:toc:
+:toclevels: 3
+
+== Motivation
+
+A key distinguishing characteristic of the Small Size League is its tight integration of software and hardware, which is crucial to success. One of the systems that shows this tight relationship is the kicking device, responsible for making the match a more dynamic environment.  Thus, aiming to encourage its development, this technical challenge seeks to provide scenarios that could occur in a game match, where a kick device makes a key difference.
+
+== Constraints
+
+The following rules apply:
+
+- The challenge will be playable on a field with 4x3m or larger.
+- Human interference is not allowed unless specified otherwise.
+- Normal SSL-EL rules apply, unless specified otherwise.
+
+== General Rules and Procedure
+
+The general procedure for each team to perform all challenges is as follows:
+
+* There will be two members of OC, TC and EC that will act as the supervisors of the challenges.
+* The team has 10 minutes to complete the challenge.
+* The team may not change any code or configuration during the challenge.
+* The team may change its trail robot during the challenge in between trails.
+* The supervisors can disqualify a team after one warning, if they suspect that a team is actively manipulating their software during a challenge.
+
+== Evaluation
+
+Teams are ranked in order of performance.
+
+In case of a tie, other random scenarios will be used to untie the match, following the FIFA soccer penalty type of elimination.
+
+A member of OC/TC will be assigned the challenge and act as the referee. The TC may provide a tool that helps with evaluation of the challenge. The referee has the final decision of the result.
+
+== Challenge
+
+=== Scoring with static defenders
+
+==== Objective
+
+The objective of this challenge is to score a goal from a number of static situations as fast as possible. This will test the capabilities of the robots to score goals and play passes with static defenders as fast and precisely as possible.
+
+==== Procedure
+
+There will be 5 different situations in random order that teams have to handle.
+The situations include the positions of the opponent robots and the ball.
+For each situation, the team has three trials, out of which the best counts.
+
+For each situation, the following procedure applies:
+
+1. The team places up to *3* opponent robots and the ball according to the given situation.
+2. Up to *2* robots of the team are placed on the middle line.
+3. A STOP command will be issued for exactly *5s* to allow the team to prepare their robots.
+4. Immediately afterwards, a *Normal Free Kick* command will be issued and the timer will start.
+5. The team has *20s* to score a goal. Afterwards, the trial is over.
+6. The timer is stopped when a valid goal is scored.
+
+==== Rules
+
+The following rules apply for this challenge:
+
+- Normal SSL-EL match rules apply. If the team performs a foul or the ball leaves the field, the trial is over and is counted with *20s*.
+- No human interference is allowed during each trial.
+- The opponent robots must be shaped like normal robots. A robot hull is sufficient, but it should stand stable.
+
+==== Evaluation
+
+For each situation, the fastest time of each team is divided by the median over the fastest times per trial of all teams.
+The 5 scores are summed up. Based on the result, teams are ranked from low to high.
