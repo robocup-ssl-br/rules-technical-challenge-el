@@ -27,14 +27,6 @@ The general procedure for each team to perform all challenges is as follows:
 * The team may change its trail robot during the challenge in between trails.
 * The supervisors can disqualify a team after one warning, if they suspect that a team is actively manipulating their software during a challenge.
 
-== Evaluation
-
-Teams are ranked in order of performance.
-
-In case of a tie, other random scenarios will be used to untie the match, following the FIFA soccer penalty type of elimination.
-
-A member of OC/TC will be assigned the challenge and act as the referee. The TC may provide a tool that helps with evaluation of the challenge. The referee has the final decision of the result.
-
 == Challenge
 
 === Scoring with static defenders
@@ -70,3 +62,7 @@ The following rules apply for this challenge:
 
 For each situation, the fastest time of each team is divided by the median over the fastest times per trial of all teams.
 The 5 scores are summed up. Based on the result, teams are ranked from low to high.
+
+In case of a tie, other random generated scenarios by the referee will be used to untie the match, following the FIFA soccer penalty type of elimination.
+
+A member of OC/TC will be assigned the challenge and act as the referee. The TC may provide a tool that helps with evaluation of the challenge. The referee has the final decision of the result.
