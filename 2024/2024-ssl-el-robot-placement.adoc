@@ -8,7 +8,7 @@
 == Challenge
 ==== Objective
 
-Given the goal of preparing SSL Entry League teams to participate in SSL Regular division, this technical challenge aims to encourage EL teams to develop autonomously robot placement in recurring game scenarios. 
+Given the goal of preparing SSL Entry Level teams to participate in SSL Regular division, this technical challenge aims to encourage EL teams to develop autonomously robot placement in recurring game scenarios. 
 
 ==== Procedure
 
@@ -34,9 +34,11 @@ In total, there will be 2 TC's evaluating the Technical Challenge, one to operat
 For every scenario, the following criteria will be evaluated: 
 
 1. Moving the robot to the desired position (each robot) — +5 
-2. Colliding with a robot during the placement — -1 (just one robot loses points) 
-3. Colliding with obstacles during the placement — -1 
+2. Colliding with a team robot during the placement — -1
+3. Colliding with obstacles (ball or opponent robots) during the placement — -1 
 4. Colliding with one of field boundary — -1 
+
+NOTE: A collision between two or more team robots will count as one collision, i.e., the collision will cost -1 for the team, not -1 for each robot.
 
 The points above are for a single robot, that is, the maximum score for each scenario is 15 points. The partial points of each scenario will be summed up. In the case of ties, the criteria described in section 3.2 will be applied. 
 
