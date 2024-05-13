@@ -25,7 +25,7 @@ The starting and desired positions of the robots can be seen in the 4.0 Section 
 
 Every team participates in the same scenario and has 3 tries per scenario. The maximum time for each try is 30 seconds. The 30 seconds considers only the time for completing the challenges, it’s up to the TC setting up the scenarios.  
 
-In total, there will be 5 scenarios in this challenge. The order of the scenarios will be in ascending order (scenarios 1 to 5), where all teams are going to do their 3 tries at scenario 1 first, and so on. 
+In total, there will be 4 scenarios in this challenge. The order of the scenarios will be in ascending order (scenarios 1 to 4), where all teams are going to do their 3 tries at scenario 1 first, and so on. 
 
 In total, there will be 2 TC's evaluating the Technical Challenge, one to operate the Game Controller and another to keep the points and position the robots. Furthermore, the TC will mark the robot position at the field with tape or chalk for each scenario. 
 
@@ -47,15 +47,35 @@ The TC reserves the right to change the evaluation procedure.
 ==== Tiebreak criteria 
 
 1. The team with the most points summed after completing all scenarios wins; 
-2. The team with the most points at scenario 5 wins [very difficult scenario]; 
-3. The team with the most points at scenario 4 wins [difficult scenario]; 
-4. The team with the most points at scenario 3 wins [medium scenario]; 
-5. The team with the most points at scenario 2 wins [easy scenario]; 
+2. The team with the most points at scenario 4 wins [very difficult scenario]; 
+3. The team with the most points at scenario 3 wins [difficult scenario]; 
+4. The team with the most points at scenario 2 wins [medium scenario]; 
+5. The team with the most points at scenario 1 wins [easy scenario]; 
 
-Example: team A and B with 10 points; Team A: 4 points at scenario 5 + 6 points at scenario 3; Team B: 6 points at scenario 5 + 4 points at scenario 3; Team B wins. 
+Example: team A and B with 10 points; Team A: 4 points at scenario 4 + 6 points at scenario 3; Team B: 6 points at scenario 4 + 4 points at scenario 3; Team B wins. 
 
 ==== Scenarios 
 
-1. Kick-Off 
-2. Free Kick 
-3. Penalty Kick 
+=== Scenario 1: Free Kick 1
+== Start
+image::scenarios_robot_placement/free_kick1_start.svg[Interactive,700,opts=interactive]
+== Goal
+image::scenarios_robot_placement/free_kick1_goal.svg[Interactive,700,opts=interactive]
+
+=== Scenario 2: Kick Off
+== Start
+image::scenarios_robot_placement/kick_off_start.svg[Interactive,700,opts=interactive]
+== Goal
+image::scenarios_robot_placement/kick_off_goal.svg[Interactive,700,opts=interactive]
+
+=== Scenario 3: Free Kick 2
+== Start
+image::scenarios_robot_placement/free_kick2_start.svg[Interactive,700,opts=interactive]
+== Goal
+image::scenarios_robot_placement/free_kick2_goal.svg[Interactive,700,opts=interactive]
+
+Scenario 4: Penalty
+== Start
+image::scenarios_robot_placement/penalty_start.svg[Interactive,700,opts=interactive]
+== Goal
+image::scenarios_robot_placement/penalty_goal.svg[Interactive,700,opts=interactive]
