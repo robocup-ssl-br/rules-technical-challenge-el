@@ -47,35 +47,35 @@ The TC reserves the right to change the evaluation procedure.
 ==== Tiebreak criteria 
 
 1. The team with the most points summed after completing all scenarios wins; 
-2. The team with the most points at scenario 4 wins [very difficult scenario]; 
-3. The team with the most points at scenario 3 wins [difficult scenario]; 
-4. The team with the most points at scenario 2 wins [medium scenario]; 
-5. The team with the most points at scenario 1 wins [easy scenario]; 
+2. The team with the most points at scenario 1 wins [very difficult scenario]; 
+3. The team with the most points at scenario 2 wins [difficult scenario]; 
+4. The team with the most points at scenario 3 wins [medium scenario]; 
+5. The team with the most points at scenario 4 wins [easy scenario]; 
 
 Example: team A and B with 10 points; Team A: 4 points at scenario 4 + 6 points at scenario 3; Team B: 6 points at scenario 4 + 4 points at scenario 3; Team B wins. 
 
-==== Scenarios 
+== Scenarios 
 
 === Scenario 1: Free Kick 1
-== Start
+==== Start
 image::scenarios_robot_placement/free_kick1_start.svg[Interactive,700,opts=interactive]
-== Goal
+==== Goal
 image::scenarios_robot_placement/free_kick1_goal.svg[Interactive,700,opts=interactive]
 
-=== Scenario 2: Kick Off
-== Start
-image::scenarios_robot_placement/kick_off_start.svg[Interactive,700,opts=interactive]
-== Goal
-image::scenarios_robot_placement/kick_off_goal.svg[Interactive,700,opts=interactive]
-
-=== Scenario 3: Free Kick 2
-== Start
+=== Scenario 2: Free Kick 2
+==== Start
 image::scenarios_robot_placement/free_kick2_start.svg[Interactive,700,opts=interactive]
-== Goal
+==== Goal
 image::scenarios_robot_placement/free_kick2_goal.svg[Interactive,700,opts=interactive]
 
-Scenario 4: Penalty
-== Start
+=== Scenario 3: Kick Off
+==== Start
+image::scenarios_robot_placement/kick_off_start.svg[Interactive,700,opts=interactive]
+==== Goal
+image::scenarios_robot_placement/kick_off_goal.svg[Interactive,700,opts=interactive]
+
+=== Scenario 4: Penalty
+==== Start
 image::scenarios_robot_placement/penalty_start.svg[Interactive,700,opts=interactive]
-== Goal
+==== Goal
 image::scenarios_robot_placement/penalty_goal.svg[Interactive,700,opts=interactive]
