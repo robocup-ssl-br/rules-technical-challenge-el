@@ -24,7 +24,7 @@ The general procedure for each team to perform all challenges is as follows:
 * There will be at least one member of the OC, TC or EC that will act as the supervisors of the challenge.
 * The team has 10 minutes to complete the challenge.
 * The team may not change any code or configuration during the challenge.
-* The team may change its trail robot during the challenge in between trails.
+* The team may change its robot during the challenge in between trials.
 * The supervisors can disqualify a team after one warning, if they suspect that a team is actively manipulating their software during a challenge.
 
 == Challenge
