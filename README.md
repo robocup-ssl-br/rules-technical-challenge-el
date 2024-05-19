@@ -2,6 +2,9 @@
 
 This is the AsciiDoc source for the official RoboCup Small Size League Entry Level technical challenges rules.
 
+Looking for improving the league capabilities, aligned with [RoboCup objectives](https://www.robocup.org/objective) and [RoboCup SSL goals](https://ssl.robocup.org/principles-and-goals/), the rules here described are aimed at addressing several technical challenges inherent in the RoboCup Small Size League, like team play, autonomous decision making, and soccer dynamics.
+
+
 Each year has its own directory with its .adoc files containing rules for each technical challenge that will or had happened in that specific year.
 
 ### Using AsciiDoctor natively
