@@ -21,7 +21,7 @@ The following rules apply:
 
 The general procedure for each team to perform all challenges is as follows:
 
-* There will be two members of OC, TC and EC that will act as the supervisors of the challenges.
+* There will be at least one member of the OC, TC or EC that will act as the supervisors of the challenge.
 * The team has 10 minutes to complete the challenge.
 * The team may not change any code or configuration during the challenge.
 * The team may change its trail robot during the challenge in between trails.
@@ -37,7 +37,7 @@ The objective of this challenge is to score a goal from a number of static situa
 
 ==== Procedure
 
-There will be 5 different situations in random order that teams have to handle.
+There will be four different situations in random order that teams have to handle.
 The situations include the positions of the opponent robots and the ball.
 For each situation, the team has three trials, out of which the best counts.
 
@@ -61,8 +61,21 @@ The following rules apply for this challenge:
 ==== Evaluation
 
 For each situation, the fastest time of each team is divided by the median over the fastest times per trial of all teams.
-The 5 scores are summed up. Based on the result, teams are ranked from low to high.
+The 4 scores are summed up. Based on the result, teams are ranked from low to high.
 
 In case of a tie, other random generated scenarios by the referee will be used to untie the match, following the FIFA soccer penalty type of elimination.
 
-A member of OC/TC will be assigned the challenge and act as the referee. The TC may provide a tool that helps with evaluation of the challenge. The referee has the final decision of the result.
+
+== Scenarios
+
+=== Scenario 1
+image::./scenarios/scenario1.svg[Interactive,700,opts=interactive]
+
+=== Scenario 2
+image::./scenarios/scenario2.svg[Interactive,700,opts=interactive]
+
+=== Scenario 3
+image::./scenarios/scenario3.svg[Interactive,700,opts=interactive]
+
+=== Scenario 4
+image::./scenarios/scenario4.svg[Interactive,700,opts=interactive]
