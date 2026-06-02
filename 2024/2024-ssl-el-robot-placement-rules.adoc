@@ -6,11 +6,12 @@
 :toclevels: 3
 
 == Challenge
-==== Objective
+
+=== Objective
 
 Given the goal of preparing SSL Entry Level teams to participate in SSL Regular division, this technical challenge aims to encourage EL teams to develop autonomously robot placement in recurring game scenarios. 
 
-==== Procedure
+=== Procedure
 
 The Robot Placement Technical Challenge will be executed using the Game Controller manual controls. Therefore, the procedure is as follows: 
 
@@ -21,7 +22,7 @@ The Robot Placement Technical Challenge will be executed using the Game Controll
 
 The starting and desired positions of the robots can be seen in the 4.0 Section at the end of the document. The "Start" is the starting position, and the "Goal" is the position where the robots must be placed.  
 
-==== Evaluation
+=== Evaluation
 
 Every team participates in the same scenario and has 3 tries per scenario. The maximum time for each try is 30 seconds. The 30 seconds considers only the time for completing the challenges, it’s up to the TC setting up the scenarios.  
 
@@ -29,7 +30,7 @@ In total, there will be 4 scenarios in this challenge. The order of the scenario
 
 In total, there will be 2 TC's evaluating the Technical Challenge, one to operate the Game Controller and another to keep the points and position the robots. Furthermore, the TC will mark the robot position at the field with tape or chalk for each scenario. 
 
-====Scoring 
+=== Scoring
 
 For every scenario, the following criteria will be evaluated: 
 
@@ -44,7 +45,7 @@ The points above are for a single robot, that is, the maximum score for each sce
 
 The TC reserves the right to change the evaluation procedure.  
 
-==== Tiebreak criteria 
+=== Tiebreak criteria
 
 1. The team with the most points summed after completing all scenarios wins; 
 2. The team with the most points at scenario 1 wins [very difficult scenario]; 
@@ -58,24 +59,24 @@ Example: team A and B with 10 points; Team A: 4 points at scenario 4 + 6 points 
 
 === Scenario 1: Free Kick 1
 ==== Start
-image::scenarios_robot_placement/free_kick1_start.svg[Interactive,700,opts=interactive]
+image::images/scenarios-robot-placement/free_kick1_start.svg[Interactive,700,opts=interactive]
 ==== Goal
-image::scenarios_robot_placement/free_kick1_goal.svg[Interactive,700,opts=interactive]
+image::images/scenarios-robot-placement/free_kick1_goal.svg[Interactive,700,opts=interactive]
 
 === Scenario 2: Free Kick 2
 ==== Start
-image::scenarios_robot_placement/free_kick2_start.svg[Interactive,700,opts=interactive]
+image::images/scenarios-robot-placement/free_kick2_start.svg[Interactive,700,opts=interactive]
 ==== Goal
-image::scenarios_robot_placement/free_kick2_goal.svg[Interactive,700,opts=interactive]
+image::images/scenarios-robot-placement/free_kick2_goal.svg[Interactive,700,opts=interactive]
 
 === Scenario 3: Kick Off
 ==== Start
-image::scenarios_robot_placement/kick_off_start.svg[Interactive,700,opts=interactive]
+image::images/scenarios-robot-placement/kick_off_start.svg[Interactive,700,opts=interactive]
 ==== Goal
-image::scenarios_robot_placement/kick_off_goal.svg[Interactive,700,opts=interactive]
+image::images/scenarios-robot-placement/kick_off_goal.svg[Interactive,700,opts=interactive]
 
 === Scenario 4: Penalty
 ==== Start
-image::scenarios_robot_placement/penalty_start.svg[Interactive,700,opts=interactive]
+image::images/scenarios-robot-placement/penalty_start.svg[Interactive,700,opts=interactive]
 ==== Goal
-image::scenarios_robot_placement/penalty_goal.svg[Interactive,700,opts=interactive]
+image::images/scenarios-robot-placement/penalty_goal.svg[Interactive,700,opts=interactive]
