@@ -1,17 +1,20 @@
 :source-highlighter: highlightjs
 :icons: font
 
-= RoboCup Brazil 2026 SSL-EL hardware challenge
+= RoboCup Brazil 2026 SSL-EL Robot Placement Technical Challenge Rules
 :toc:
 :toclevels: 3
 
-== Challenge
 
-=== Objective
+== Goals of the technical challenge
 
 Given the goal of preparing SSL Entry Level teams to participate in SSL Regular division, this technical challenge aims to encourage EL teams to develop autonomously robot placement in recurring game scenarios. 
 
-=== Procedure
+=== Participation Requirements
+
+All SSL-EL teams are eligible and *are encouraged* to participate in this challenge.
+
+== Procedure
 
 The Robot Placement Technical Challenge will be executed using the Game Controller manual controls. Therefore, the procedure is as follows: 
 
@@ -25,13 +28,15 @@ The starting and desired positions of the robots can be seen in the 4.0 Section 
 NOTE: No changes to the hardware, firmware, or software are allowed during the technical challenge.
 
 
-=== Evaluation
+== Evaluation
 
 Every team participates in the same scenario and has 3 tries per scenario. The maximum time for each try is 30 seconds. The 30 seconds considers only the time for completing the challenges, it’s up to the TC setting up the scenarios.  
 
 In total, there will be 4 scenarios in this challenge. The order of the scenarios will be in ascending order (scenarios 1 to 4), where all teams are going to do their 3 tries at scenario 1 first, and so on. 
 
 In total, there will be 2 TC's evaluating the Technical Challenge, one to operate the Game Controller and another to keep the points and position the robots. Furthermore, the TC will mark the robot position at the field with tape or chalk for each scenario. 
+
+The TC reserves the right to change the evaluation procedure.
 
 === Scoring
 
@@ -57,6 +62,8 @@ The TC reserves the right to change the evaluation procedure.
 5. The team with the most points at scenario 4 wins [easy scenario]; 
 
 Example: team A and B with 10 points; Team A: 4 points at scenario 4 + 6 points at scenario 3; Team B: 6 points at scenario 4 + 4 points at scenario 3; Team B wins. 
+
+[appendix]
 
 == Scenarios 
 
